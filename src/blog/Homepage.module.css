@@ -1,0 +1,13 @@
+.button{
+    color: aqua;
+    background-color: rgb(16, 39, 209);
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+    gap: 10px;
+
+    
+    text-decoration: overline;
+
+
+}
